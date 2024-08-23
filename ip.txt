@@ -1,6 +1,1 @@
-
-; <<>> DiG 9.16.50-Debian <<>> @resolver4.opendns.com myip.opendns.com +short
-; (1 server found)
-;; global options: +cmd
-;; connection timed out; no servers could be reached
-
+170.203.220.171
